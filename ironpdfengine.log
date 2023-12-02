@@ -1,0 +1,73 @@
+[2023-11-27 00:19:57] ---------- Windows v10.0.22621.0 (D:\spring\magic-image\magic-image\ironpdfengine.log) ----------
+[2023-11-27 00:19:57] Using deployment directory 'D:\spring\magic-image\magic-image\IronPdfEngine.2022.11.10413.Windows.x64\'
+[2023-11-27 00:19:57] Creating deployments for win-x64
+[2023-11-27 00:19:57] Attempting deployment for 'Chrome' v2022.10.0.9530 using 'D:\spring\magic-image\magic-image\IronPdfEngine.2022.11.10413.Windows.x64\'
+[2023-11-27 00:19:57] Successfully located 'IronInterop' at 'D:\spring\magic-image\magic-image\IronPdfEngine.2022.11.10413.Windows.x64\'
+[2023-11-27 00:19:58] Determining deployment commands for platform 'Windows' v10.0.22621.0
+[2023-11-27 00:19:58] Using deployment instructions for 'default' v
+[2023-11-27 00:19:58] Attempting to load Windows library 'D:\spring\magic-image\magic-image\IronPdfEngine.2022.11.10413.Windows.x64\ucrtbase.dll'
+[2023-11-27 00:19:58] Attempting to load Windows library 'D:\spring\magic-image\magic-image\IronPdfEngine.2022.11.10413.Windows.x64\ucrtbase.dll'
+[2023-11-27 00:19:58] Successfully loaded native library 'ucrtbase' from 'D:\spring\magic-image\magic-image\IronPdfEngine.2022.11.10413.Windows.x64\ucrtbase.dll'
+[2023-11-27 00:19:58] Attempting to load Windows library 'D:\spring\magic-image\magic-image\IronPdfEngine.2022.11.10413.Windows.x64\vcruntime140.dll'
+[2023-11-27 00:19:58] Attempting to load Windows library 'D:\spring\magic-image\magic-image\IronPdfEngine.2022.11.10413.Windows.x64\vcruntime140.dll'
+[2023-11-27 00:19:58] Successfully loaded native library 'vcruntime140' from 'D:\spring\magic-image\magic-image\IronPdfEngine.2022.11.10413.Windows.x64\vcruntime140.dll'
+[2023-11-27 00:19:58] Attempting to load Windows library 'D:\spring\magic-image\magic-image\IronPdfEngine.2022.11.10413.Windows.x64\vcruntime140_1.dll'
+[2023-11-27 00:19:58] Attempting to load Windows library 'D:\spring\magic-image\magic-image\IronPdfEngine.2022.11.10413.Windows.x64\vcruntime140_1.dll'
+[2023-11-27 00:19:58] Successfully loaded native library 'vcruntime140_1' from 'D:\spring\magic-image\magic-image\IronPdfEngine.2022.11.10413.Windows.x64\vcruntime140_1.dll'
+[2023-11-27 00:19:58] Attempting to load Windows library 'D:\spring\magic-image\magic-image\IronPdfEngine.2022.11.10413.Windows.x64\msvcp140.dll'
+[2023-11-27 00:19:58] Attempting to load Windows library 'D:\spring\magic-image\magic-image\IronPdfEngine.2022.11.10413.Windows.x64\msvcp140.dll'
+[2023-11-27 00:19:58] Successfully loaded native library 'msvcp140' from 'D:\spring\magic-image\magic-image\IronPdfEngine.2022.11.10413.Windows.x64\msvcp140.dll'
+[2023-11-27 00:19:58] Attempting to load Windows library 'D:\spring\magic-image\magic-image\IronPdfEngine.2022.11.10413.Windows.x64\dxva2.dll'
+[2023-11-27 00:19:58] Attempting to load Windows library 'D:\spring\magic-image\magic-image\IronPdfEngine.2022.11.10413.Windows.x64\dxva2.dll'
+[2023-11-27 00:19:58] Successfully loaded native library 'dxva2' from 'D:\spring\magic-image\magic-image\IronPdfEngine.2022.11.10413.Windows.x64\dxva2.dll'
+[2023-11-27 00:19:58] Attempting to load Windows library 'D:\spring\magic-image\magic-image\IronPdfEngine.2022.11.10413.Windows.x64\chrome_elf.dll'
+[2023-11-27 00:19:58] Attempting to load Windows library 'D:\spring\magic-image\magic-image\IronPdfEngine.2022.11.10413.Windows.x64\chrome_elf.dll'
+[2023-11-27 00:19:58] Successfully loaded native library 'chrome_elf' from 'D:\spring\magic-image\magic-image\IronPdfEngine.2022.11.10413.Windows.x64\chrome_elf.dll'
+[2023-11-27 00:19:58] Attempting to load Windows library 'D:\spring\magic-image\magic-image\IronPdfEngine.2022.11.10413.Windows.x64\libcef.dll'
+[2023-11-27 00:19:59] Attempting to load Windows library 'D:\spring\magic-image\magic-image\IronPdfEngine.2022.11.10413.Windows.x64\libcef.dll'
+[2023-11-27 00:19:59] Successfully loaded native library 'libcef' from 'D:\spring\magic-image\magic-image\IronPdfEngine.2022.11.10413.Windows.x64\libcef.dll'
+[2023-11-27 00:19:59] Attempting to load Windows library 'D:\spring\magic-image\magic-image\IronPdfEngine.2022.11.10413.Windows.x64\IronInterop.dll'
+[2023-11-27 00:19:59] Attempting to load Windows library 'D:\spring\magic-image\magic-image\IronPdfEngine.2022.11.10413.Windows.x64\IronInterop.dll'
+[2023-11-27 00:19:59] Successfully loaded native library 'IronInterop' from 'D:\spring\magic-image\magic-image\IronPdfEngine.2022.11.10413.Windows.x64\IronInterop.dll'
+[2023-11-27 00:19:59] Successfully loaded 'IronInterop' version '2022.10.0.9530' from 'D:\spring\magic-image\magic-image\IronPdfEngine.2022.11.10413.Windows.x64\'
+[2023-11-27 00:19:59] Successfully deployed 'Chrome' using 'D:\spring\magic-image\magic-image\IronPdfEngine.2022.11.10413.Windows.x64\'
+[2023-11-27 00:19:59] Initializing Chrome renderer for OS Name: Windows, Identifier: win, Version: 10.0.22621.0, VersionName: , Domain: IronPdfEngine, Thread: , Path: D:\spring\magic-image\magic-image
+[2023-11-27 00:19:59] 00:19:59 (2416): Detected operating system windows
+[2023-11-27 00:19:59] 00:19:59 (2416): ~ Chrome renderer v2022.10.0.9530~
+[2023-11-27 00:19:59] 00:19:59 (2416): IsSingleProcess: 0
+[2023-11-27 00:19:59] 00:19:59 (2416): Creating Cef proxy controller
+[2023-11-27 00:19:59] 00:19:59 (2416): Creating Cef interface
+[2023-11-27 00:19:59] 00:19:59 (2416): Created new lifespan events
+[2023-11-27 00:19:59] 00:19:59 (2416): Created new browser process handler
+[2023-11-27 00:19:59] 00:19:59 (2416): Created new load handler
+[2023-11-27 00:19:59] 00:19:59 (2416): Created new render handler
+[2023-11-27 00:19:59] 00:19:59 (2416): Created new render process handler
+[2023-11-27 00:19:59] 00:19:59 (2416): Created new print handler
+[2023-11-27 00:19:59] 00:19:59 (2416): Created new dev tools handler
+[2023-11-27 00:19:59] 00:19:59 (2416): Created new dev tools registration factory
+[2023-11-27 00:19:59] 00:19:59 (2416): Created new lifespan handler
+[2023-11-27 00:19:59] 00:19:59 (2416): Assigning Cef proxy controller events...
+[2023-11-27 00:19:59] 00:19:59 (2416): Assigning Cef proxy controller stream provider...
+[2023-11-27 00:19:59] 00:19:59 (2416): Initializing Cef proxy controller
+[2023-11-27 00:19:59] 00:19:59 (2416): Using subprocess path 'D:\spring\magic-image\magic-image\IronPdfEngine.2022.11.10413.Windows.x64\IronCefSubprocess.exe'
+[2023-11-27 00:19:59] 00:19:59 (2416): Using framework path 'D:\spring\magic-image\magic-image\IronPdfEngine.2022.11.10413.Windows.x64\'
+[2023-11-27 00:19:59] 00:19:59 (2416): Using locales path 'D:\spring\magic-image\magic-image\IronPdfEngine.2022.11.10413.Windows.x64\\locales'
+[2023-11-27 00:19:59] 00:19:59 (2416): Using resources path 'D:\spring\magic-image\magic-image\IronPdfEngine.2022.11.10413.Windows.x64\'
+[2023-11-27 00:19:59] 00:19:59 (2416): Process os_name: 'windows'
+[2023-11-27 00:19:59] 00:19:59 (2416): gpu_mode: '0'
+[2023-11-27 00:19:59] 00:19:59 (2416): Launching Main process '"D:\spring\magic-image\magic-image\IronPdfEngine.2022.11.10413.Windows.x64\IronPdfEngine.exe" --browser-subprocess-path="D:\spring\magic-image\magic-image\IronPdfEngine.2022.11.10413.Windows.x64\IronCefSubprocess.exe" --no-sandbox --lang=en-US --log-file=cef.log --log-severity=disable --resources-dir-path="D:\spring\magic-image\magic-image\IronPdfEngine.2022.11.10413.Windows.x64" --locales-dir-path="D:\spring\magic-image\magic-image\IronPdfEngine.2022.11.10413.Windows.x64\\locales" --disable-features=CalculateNativeWinOcclusion,WinUseBrowserSpellChecker,BackForwardCache --disable-web-security --disable-component-update --disable-background-downloads --disable-delta-updates --disable-pings --headless --hide-scrollbars --mute-audio --disable-gpu --disable-gpu-compositing --disable-software-rasterizer --disable-gpu-shader-disk-cache --disable-dev-shm-usage --enable-media-stream --no-sandbox --ignore-certificate-errors --ignore-ssl-errors --ignore-urlfetcher-cert-requests host=127.0.0.1 port=51441 enable_debug=false log_path=ironpdfengine.log'
+[2023-11-27 00:19:59] 00:19:59 (3388): Process os_name: 'windows'
+[2023-11-27 00:19:59] 00:19:59 (3388): gpu_mode: '0'
+[2023-11-27 00:19:59] 00:19:59 (3388): Launching child process '"D:\spring\magic-image\magic-image\IronPdfEngine.2022.11.10413.Windows.x64\IronCefSubprocess.exe" --type=gpu-process --no-sandbox --headless --locales-dir-path="D:\spring\magic-image\magic-image\IronPdfEngine.2022.11.10413.Windows.x64\\locales" --log-severity=disable --resources-dir-path="D:\spring\magic-image\magic-image\IronPdfEngine.2022.11.10413.Windows.x64" --lang=en-US --user-data-dir="C:\Users\RTX\AppData\Local\Temp" --disable-web-security --disable-component-update --disable-background-downloads --disable-delta-updates --disable-pings --headless --hide-scrollbars --mute-audio --disable-gpu --disable-gpu-compositing --disable-software-rasterizer --disable-gpu-shader-disk-cache --disable-dev-shm-usage --enable-media-stream --no-sandbox --ignore-certificate-errors --ignore-ssl-errors --ignore-urlfetcher-cert-requests /prefetch:2'
+[2023-11-27 00:19:59] 00:19:59 (2416): Cef initialization succeeded
+[2023-11-27 00:19:59] 00:19:59 (3388): Cef context initialized
+[2023-11-27 00:19:59] 00:19:59 (3388): Registering custom scheme for rendering raw html
+[2023-11-27 00:19:59] 00:19:59 (3388): Successfully registered custom scheme
+[2023-11-27 00:19:59] 00:19:59 (3388): Cef engine initialization complete
+[2023-11-27 00:19:59] 00:19:59 (3388): Process os_name: 'windows'
+[2023-11-27 00:19:59] 00:19:59 (3388): gpu_mode: '0'
+[2023-11-27 00:19:59] 00:19:59 (3388): Launching child process '"D:\spring\magic-image\magic-image\IronPdfEngine.2022.11.10413.Windows.x64\IronCefSubprocess.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --ignore-urlfetcher-cert-requests --no-sandbox --ignore-certificate-errors --mute-audio --ignore-certificate-errors --locales-dir-path="D:\spring\magic-image\magic-image\IronPdfEngine.2022.11.10413.Windows.x64\\locales" --log-severity=disable --resources-dir-path="D:\spring\magic-image\magic-image\IronPdfEngine.2022.11.10413.Windows.x64" --lang=en-US --user-data-dir="C:\Users\RTX\AppData\Local\Temp" --disable-web-security --disable-component-update --disable-background-downloads --disable-delta-updates --disable-pings --headless --hide-scrollbars --mute-audio --disable-gpu --disable-gpu-compositing --disable-software-rasterizer --disable-gpu-shader-disk-cache --disable-dev-shm-usage --enable-media-stream --no-sandbox --ignore-certificate-errors --ignore-ssl-errors --ignore-urlfetcher-cert-requests /prefetch:8'
+[2023-11-27 00:20:02] 00:20:02 (13704): PdfDocumentFactory created document 0000022C5AA95860 from 29366 bytes
+[2023-11-27 00:20:02] 00:20:02 (13704): Storing new document 0
+[2023-11-27 00:20:02] 00:20:02 (13704): Rendering bitmap for page 0
+[2023-11-27 00:20:03] 00:20:03 (13704): Rendering bitmap for page 0
